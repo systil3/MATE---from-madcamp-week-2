@@ -1,6 +1,9 @@
 # MATE---from-madcamp-week-2
 from KAIST madcamp week 2
 
+![thumbnail](https://github.com/systil3/MATE---from-madcamp-week-2/assets/87977576/1b8c57b3-03ae-43ce-88a9-11d83ded1ce5)
+
+
 ## 앱 소개
 
 > *약속 시간이 언젠데… 왜 아직 안오는 거야?*
