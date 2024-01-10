@@ -1,7 +1,7 @@
 # MATE---from-madcamp-week-2
 from KAIST madcamp week 2
 
-![thumbnail](https://github.com/systil3/MATE---from-madcamp-week-2/assets/87977576/1b8c57b3-03ae-43ce-88a9-11d83ded1ce5)
+![thumbnail](https://github.com/systil3/MATE---from-madcamp-week-2/assets/87977576/55aa68c6-5cda-49b9-baeb-84dce43688f6)
 
 
 ## 앱 소개
