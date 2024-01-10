@@ -23,7 +23,7 @@ class Distance {
 
         if(dist > 1000000) {
             return "1000 km 이상"
-        }
+        }pu
         else if(dist > 1000) {
             return "${String.format("%.1f", dist / 1000).toDouble()} km"
         }

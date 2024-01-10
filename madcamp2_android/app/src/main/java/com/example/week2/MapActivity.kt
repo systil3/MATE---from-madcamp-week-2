@@ -1,6 +1,8 @@
 package com.example.week2
 
 import android.annotation.SuppressLint
+import android.graphics.drawable.Drawable
+import android.graphics.drawable.DrawableContainer
 import android.os.Bundle
 import android.os.Looper
 import android.widget.TextView
@@ -35,6 +37,7 @@ import androidx.compose.ui.Alignment.Companion.CenterVertically
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.Shape
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
