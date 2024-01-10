@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">dhki.kr</domain>
+        <domain includeSubdomains="true">ot0.maps.daum-img.net</domain>
+        <domain includeSubdomains="true">ot1.maps.daum-img.net</domain>
+        <domain includeSubdomains="true">ot2.maps.daum-img.net</domain>
+        <domain includeSubdomains="true">ot3.maps.daum-img.net</domain>
+
+    </domain-config>
+</network-security-config>

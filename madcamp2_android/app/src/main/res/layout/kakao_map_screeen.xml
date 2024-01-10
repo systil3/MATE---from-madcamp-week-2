@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ruqjxwlgisnq"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFD0F3FF"
+    android:paddingTop="13dp"
+    android:paddingBottom="38dp"
+    android:orientation="vertical">
+    <LinearLayout
+        android:id="@+id/riuz6eqj1m59"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cr10be0aae0ff"
+        android:paddingVertical="13dp"
+        android:paddingHorizontal="12dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginHorizontal="12dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/rwwmnqytqur"
+            android:textColor="#000000"
+            android:textSize="16sp"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="그룹 위치 확인 "
+            />
+    </LinearLayout>
+
+    <androidx.compose.ui.platform.ComposeView
+        android:id="@+id/map_compose_view"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"/>
+
+    <RelativeLayout
+        android:id="@+id/kakaoMapView"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:layout_height="wrap_content"
+        android:background="@drawable/cr6b809de7f1"
+        android:layout_marginBottom="12dp"
+        android:layout_marginHorizontal="11dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/rd2i120wfpgr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginBottom="8dp"
+            android:background="@drawable/shadow3"
+            android:elevation="2dp"
+            android:orientation="vertical"
+            android:paddingHorizontal="4dp"
+            android:paddingVertical="4dp">
+
+            <TextView
+                android:id="@+id/UserDistanceTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="      "
+                android:textAlignment="center"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/rdb19vpmq0n7"
+        android:textColor="#000000"
+        android:textSize="12sp"
+        android:layout_marginBottom="12dp"
+        android:layout_marginHorizontal="13dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="textEnd"
+        android:layout_width="match_parent"
+        android:text="사용자 이름을 클릭하면 해당 위치로 이동합니다."
+        />
+</LinearLayout>
